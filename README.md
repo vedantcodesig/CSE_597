@@ -101,8 +101,4 @@ Elevates the model into an applied forensic CLI tool. It recursively parses a ta
 ## Threat Model Context
 
 This tool demonstrates that AI-generated code inadvertently acts as a side-channel, leaking the operational constraints, compliance rules, and cryptographic decisions provided by developers during prompting. 
-
-## License
-
-MIT License
 ```
