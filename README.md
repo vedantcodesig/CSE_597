@@ -1,7 +1,7 @@
 ```markdown
 # PROMPT.ARCHAEOLOGY
 
-Prompt.Archaeology is the first system designed to systematically recover the original natural language instructions (prompts) used to generate AI-authored Python code. While prior work focuses on detecting AI code or attributing it to specific models, this project tackles the generative task of Intent Reconstruction.
+Prompt.Archaeology is the first system designed to systematically recover the original natural language instructions (prompts) used to generate AI-authored Python code. While prior work focuses on detecting AI code or attributing it to specific models, this project tackles the generative task of Intent Reconstruction. The data and models directory are created on running the code.
 
 By using Low-Rank Adaptation (LoRA) on `microsoft/phi-3-mini-4k-instruct`, this system proves that sensitive business logic, constraints, and operational context can be reverse-engineered directly from pure code structure.
 
