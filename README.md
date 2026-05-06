@@ -73,7 +73,4 @@ This calculates BLEU, ROUGE-1, ROUGE-L, and Semantic Similarity (using all-MiniL
 
 This tool demonstrates that AI-generated code inadvertently acts as a side-channel, leaking the operational constraints, compliance rules, and cryptographic decisions provided by developers during prompting. 
 
-## License
-
-MIT License
 ```
